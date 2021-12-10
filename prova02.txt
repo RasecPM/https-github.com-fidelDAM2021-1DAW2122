@@ -1,3 +1,4 @@
 Prova02
 Afegint una nova línia a prova02
 Ara he afegit una línia de manera remota
+Nova línia afegida en local
